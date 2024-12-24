@@ -23,7 +23,7 @@ An example output, if successful, should look like this:\
 Fig. 1.	Real-time image of class “V” detected as class “V”
 
 Our model has successfully recognized BISINDO alphabet gestures using hand landmark classification. The model achieved a high accuracy of 97–98% and showed reliable real-time performance even in noisy environments.\
-![trainingacc](https://github.com/user-attachments/assets/be373ba3-e0ad-4280-ae12-d9120e7bc2f2)\
+![accuracy](https://github.com/user-attachments/assets/30b5c080-be6a-452d-92b5-73477f4d1468)\
 Fig. 2.	Graph of average training and validation accuracy\
 ![confusionmatrix](https://github.com/user-attachments/assets/a66dee4b-90c5-4c50-9406-47e5bfd9ff81)\
 Fig. 3.	Confusion matrix
