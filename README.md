@@ -19,16 +19,21 @@ For any missing packages, install them using pip install (package name).
 ## Output
 
 An example output, if successful, should look like this:\
+<p align="center">
+![Screenshot 2024-12-24 143312](https://github.com/user-attachments/assets/52b38c09-e7d7-4351-a221-77ba6a5df98f)
 
 Fig. 1.	Real-time image of class “V” detected as class “V”\
-
+</p>
 Our model has successfully recognized BISINDO alphabet gestures using hand landmark classification. The model achieved a high accuracy of 97–98% and showed reliable real-time performance even in noisy environments.\
+<p align="center">
+![Screenshot 2024-12-24 143008](https://github.com/user-attachments/assets/6147254f-2137-4e15-9f7d-3324757fd506)
 
 Fig. 2.	Graph of average training and validation accuracy\
 
+![Screenshot 2024-12-24 143614](https://github.com/user-attachments/assets/a4578438-59c1-4ed5-b952-4e0ef9e33452)
 
 Fig. 3.	Confusion matrix
-
+</p>
 
 
 
