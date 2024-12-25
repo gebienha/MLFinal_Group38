@@ -28,8 +28,8 @@ Our model has successfully recognized BISINDO alphabet gestures using hand landm
 
 ## Bisindo Alphabet
 Example of BISINDO Alphabet gestures:
-Note that for all one-handed gestures, the right hand should be used as per the BISINDO sign language rules
 <p align="center"> <img src="https://github.com/user-attachments/assets/e8e9a203-3a6c-4cfa-a4cf-58d9044fa001" width="300"/> <br> 
 Source: https://id.wikipedia.org/wiki/Berkas:Isyarat_Bisindo.jpg
+*Note that for all one-handed gestures, the right hand should be used as per the BISINDO sign language rules
 
 
