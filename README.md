@@ -26,7 +26,7 @@ Our model has successfully recognized BISINDO alphabet gestures using hand landm
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/6147254f-2137-4e15-9f7d-3324757fd506" width="300"/> <br> Fig. 2. Graph of average training and validation accuracy </p> <p align="center"> <img src="https://github.com/user-attachments/assets/a4578438-59c1-4ed5-b952-4e0ef9e33452" width="300"/> <br> Fig. 3. Confusion matrix </p> 
 
-## Bisindo Alphabet
+## BISINDO Alphabet
 Example of BISINDO Alphabet gestures:
 <p align="center"> <img src="https://github.com/user-attachments/assets/e8e9a203-3a6c-4cfa-a4cf-58d9044fa001" width="300"/> <br> 
 Source: https://id.wikipedia.org/wiki/Berkas:Isyarat_Bisindo.jpg </p>
