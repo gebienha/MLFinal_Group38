@@ -24,6 +24,6 @@ An example output, if successful, should look like this:
 
 Our model has successfully recognized BISINDO alphabet gestures using hand landmark classification. The model achieved a high accuracy of 97–98% and showed reliable real-time performance even in noisy environments.
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/6147254f-2137-4e15-9f7d-3324757fd506" width="300"/> <br> Fig. 2. Graph of average training and validation accuracy </p> <p align="center"> <img src="https://github.com/user-attachments/assets/a4578438-59c1-4ed5-b952-4e0ef9e33452" width="300"/> <br> Fig. 3. Confusion matrix </p> ```
+<p align="center"> <img src="https://github.com/user-attachments/assets/6147254f-2137-4e15-9f7d-3324757fd506" width="300"/> <br> Fig. 2. Graph of average training and validation accuracy </p> <p align="center"> <img src="https://github.com/user-attachments/assets/a4578438-59c1-4ed5-b952-4e0ef9e33452" width="300"/> <br> Fig. 3. Confusion matrix </p> 
 
 
